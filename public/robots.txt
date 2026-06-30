@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seafood.gggpick.com/sitemap.xml
